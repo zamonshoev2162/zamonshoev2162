@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rizo Zamonshoev
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning JavaScript
